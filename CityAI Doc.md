@@ -27,7 +27,7 @@
 
   * LGB （baselineB榜首次提交12.28，结果int后12.18）
 
-    ![Screen Shot 2019-04-05 at 10.17.33 AM](/Users/ericjames/Desktop/Screen Shot 2019-04-05 at 10.17.33 AM.png)
+    ![]()
 
   * *StationID*不能作为连续值训练，应该将其作为类别特征，One-hot效果不及直接将其作为LGB的*category_feature='stationID'*效果来的好，大概好0.5mae
 - 如何构建训练集
